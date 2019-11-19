@@ -10,8 +10,7 @@ Previously, you've seen how you can select ways of assessing your model fit metr
 
 You will be able to:
 
-- Understand that both AIC and BIC are information criteria that also can be used to perform model selection
-- Understand how AIC and BIC use likelihood
+- Define AIC and BIC in the context of assessing model fit 
 
 ## AIC
 

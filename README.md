@@ -64,4 +64,4 @@ Like the AIC, the **lower** your BIC, the better your model is performing.
 
 ## Summary
 
-Great! Now that you know about AIC and BIC and why they are important, it's time to for you to calculate them in Python. 
+Great! In this lesson you learned about AIC and BIC, two measures that are helpful when comparing and evaluating models with varying number of features. 
